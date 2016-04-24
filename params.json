@@ -1,0 +1,6 @@
+{
+  "name": "Angry Shakespeare",
+  "tagline": "",
+  "body": "### Angry Shakespeare.\r\nThis example projects shows how to create a Facebook messenger bot using AWS Lambda and AWS API Gateway via serverless\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
